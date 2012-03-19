@@ -61,3 +61,13 @@ HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickM
 HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
 	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@6c596c2a,
 	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@3f460a4a),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@12fcdf5)),sourcePriority=1064960)
+!SESSION 2012-03-18 23:21:41.833 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-03-18 23:22:22.677
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

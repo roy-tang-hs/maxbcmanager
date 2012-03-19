@@ -27,6 +27,8 @@
 	<files folder="site">
 		<filename>index.html</filename>
 		<filename>mymanager.php</filename>
+		<filename>controller.php</filename>
+		<folder>views</folder>
 	</files>
  
 	<administration>
