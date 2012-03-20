@@ -15,6 +15,10 @@ class ManagerModelMyManager extends JModelItem
 	 */
 	protected $msg;
  
+	public function getTable($type = 'MyManager',$prefix = 'MyManagerTable', $config = array())
+	{
+		return JTable::getInstance($type,$prefix,$config);
+	}
 	/**
 	 * Get the message
 	 * @return string The message to be displayed to the user
@@ -23,7 +27,15 @@ class ManagerModelMyManager extends JModelItem
 	{
 		if (!isset($this->msg)) 
 		{
-			$this->msg = 'Hello ZJ';
+			$id = JRequest::getInt('id',1);
+			//Get a TableMyManager instance
+			$table = $this->getTable();
+			
+			//Load the message
+			$table ->load($id);
+			
+			//assign the message
+			$this->msg = $table->user_id;
 		}
 		return $this->msg;
 	}

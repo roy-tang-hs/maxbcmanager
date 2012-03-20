@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="User_file_manager">
+		<message>User_file_manager_system</message>
+	</layout>
+	<fields
+		name="request"
+		addfieldpath="/administrator/components/com_helloworld/models/fields"
+	>
+		<fieldset name="request">
+			<field
+				name="id"
+				type="mymanager"
+				label="USER_FILE_MANAGER_LABEL"
+				description="USER_FILE_MANAGER_DESC"
+			/>
+		</fieldset>
+	</fields>
+</metadata>
+	
