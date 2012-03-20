@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236184077
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.refresh",1332236190808
+closed,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332236190825
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332236201946
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332236201988
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332236207468
+closed,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332236207487
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332236207510
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332236207539
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332236207556
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332236207562
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332236209733
+closed,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332236209733
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236216218
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236509261
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236514260
+error,log,,,"Core exception while retrieving the content description",1332236738600
+error,log,,,"Core exception while retrieving the content description",1332236738601
+error,log,,,"Core exception while retrieving the content description",1332236738602
+error,log,,,"Core exception while retrieving the content description",1332236738603
+error,log,,,"Core exception while retrieving the content description",1332236738607
+error,log,,,"Core exception while retrieving the content description",1332236738608
+error,log,,,"Core exception while retrieving the content description",1332236738609
+error,log,,,"Core exception while retrieving the content description",1332236738610
+error,log,,,"Core exception while retrieving the content description",1332236738614
+error,log,,,"Core exception while retrieving the content description",1332236738615
+error,log,,,"Core exception while retrieving the content description",1332236738616
+error,log,,,"Core exception while retrieving the content description",1332236738618
+error,log,,,"Core exception while retrieving the content description",1332236738623
+error,log,,,"Core exception while retrieving the content description",1332236738624
+error,log,,,"Core exception while retrieving the content description",1332236738625
+error,log,,,"Core exception while retrieving the content description",1332236738627
+error,log,,,"Core exception while retrieving the content description",1332236738629
+error,log,,,"Core exception while retrieving the content description",1332236738630
+error,log,,,"Core exception while retrieving the content description",1332236738631
+error,log,,,"Core exception while retrieving the content description",1332236738632
+error,log,,,"Core exception while retrieving the content description",1332236738634
+error,log,,,"Core exception while retrieving the content description",1332236738635
+error,log,,,"Core exception while retrieving the content description",1332236738636
+error,log,,,"Core exception while retrieving the content description",1332236738637
+started,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.0.v201005250108,"org.eclipse.wst.jsdt.debug.ui",1332236738669
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236739524
+error,log,,,"Resource is out of sync with the file system: '/MyManager/admin/language/en-GB/en-GB.com_helloworld.ini'.",1332236739624
+error,log,,,"Core exception while retrieving the content description",1332236739968
+error,log,,,"Core exception while retrieving the content description",1332236740030
+error,log,,,"Core exception while retrieving the content description",1332236740031
+error,log,,,"Core exception while retrieving the content description",1332236740033
+error,log,,,"Core exception while retrieving the content description",1332236740034
+error,log,,,"Core exception while retrieving the content description",1332236745847
+error,log,,,"Core exception while retrieving the content description",1332236745848
+error,log,,,"Core exception while retrieving the content description",1332236745849
+error,log,,,"Core exception while retrieving the content description",1332236745851
+error,log,,,"Core exception while retrieving the content description",1332236751352
+error,log,,,"Core exception while retrieving the content description",1332236751354
+error,log,,,"Core exception while retrieving the content description",1332236751355
+error,log,,,"Core exception while retrieving the content description",1332236751357
+error,log,,,"Core exception while retrieving the content description",1332236751417
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236751573
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236754700
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1332236754711
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236761763
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236835396
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.refresh",1332236842108
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1332236864822
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236864987
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236867158
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236867167
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236868799
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236870221
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236870229
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236889441
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236890625
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236890633
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236903341
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236904598
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236904606
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236905980
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236913421
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236913429
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236920619
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236928377
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236950970
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236952288
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236952295
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236955471
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236956593
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236956601
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236961149
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236962548
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332236962566
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236971210
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332236987034
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.refresh",1332236998488
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237001295
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237016306
+opened,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237033521
+activated,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237033605
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237038138
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237038401
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237038500
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237045211
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237045473
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237045558
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237050353
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237051170
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237057943
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237059211
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237214115
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237214400
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237223635
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237223698
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237225225
+opened,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237225439
+activated,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237225520
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237227302
+closed,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237227302
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237228077
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237228077
+activated,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237229155
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237229155
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237229976
+closed,editor,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.core.htmlsource.source",1332237229976
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237259137
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237261216
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237262232
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237316226
+opened,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332237330858
+activated,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332237330961
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237336048
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237339858
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237365848
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237371712
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237372064
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237383752
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237401267
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237410704
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237501101
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237501433
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237502135
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237502533
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332237502827
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237511477
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1332237528334
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1332237532191
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237543717
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237562729
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237571512
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237603844
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237603897
+opened,editor,org.eclipse.wst.jsdt.ui,1.1.0.v201005200157,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1332237606266
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.0.v201005200157,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1332237606634
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237618620
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237624132
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237627554
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237629390
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237629510
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237663889
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237690555
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237702370
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237780714
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237874557
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237908156
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237924496
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237935228
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237935284
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237940069
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237940167
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332237950010
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237950229
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1332237950338
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237967407
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332237981733
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332237989258
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238004771
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238021963
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238050244
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238063905
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238069304
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238074969
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238101450
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332238112866
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332238116952
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332238117005
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238144505
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.0.v20100520-0800,"org.eclipse.ui.edit.text.toggleOverwrite",1332238172549
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.0.v20100520-0800,"org.eclipse.ui.edit.text.toggleOverwrite",1332238180071
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238183222
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238183415
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238183924
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238184383
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238195981
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238293052
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238308471
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238312054
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332238313911
+opened,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332238314111
+activated,editor,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.DefaultTextEditor",1332238314143
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238327999
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238354098
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238362535
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238393531
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332238397623
+opened,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332238397886
+activated,editor,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1332238398028
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238432830
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238437136
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1332238451337
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238470255
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238537250
+activated,view,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui.explorer",1332238543432
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238548551
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238560552
+error,log,,,"Core exception while retrieving the content description",1332238562073
+error,log,,,"Core exception while retrieving the content description",1332238562074
+error,log,,,"Core exception while retrieving the content description",1332238562075
+error,log,,,"Core exception while retrieving the content description",1332238562077
+error,log,,,"Core exception while retrieving the content description",1332238562088
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238563492
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238564859
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238564867
+error,log,,,"Core exception while retrieving the content description",1332238568424
+error,log,,,"Core exception while retrieving the content description",1332238568425
+error,log,,,"Core exception while retrieving the content description",1332238568442
+error,log,,,"Core exception while retrieving the content description",1332238568444
+error,log,,,"Core exception while retrieving the content description",1332238568445
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238569806
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238572620
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1332238572628
+error,log,,,"Core exception while retrieving the content description",1332238575087
+error,log,,,"Core exception while retrieving the content description",1332238575088
+error,log,,,"Core exception while retrieving the content description",1332238575089
+error,log,,,"Core exception while retrieving the content description",1332238575090
+error,log,,,"Core exception while retrieving the content description",1332238575092
+error,log,,,"Core exception while retrieving the content description",1332238575093
+error,log,,,"Core exception while retrieving the content description",1332238575094
+error,log,,,"Core exception while retrieving the content description",1332238575095
+error,log,,,"Core exception while retrieving the content description",1332238575096
+error,log,,,"Core exception while retrieving the content description",1332238575097
+error,log,,,"Core exception while retrieving the content description",1332238575098
+error,log,,,"Core exception while retrieving the content description",1332238575099
+error,log,,,"Core exception while retrieving the content description",1332238575131
+error,log,,,"Core exception while retrieving the content description",1332238575132
+error,log,,,"Core exception while retrieving the content description",1332238575133
+error,log,,,"Core exception while retrieving the content description",1332238575134
+error,log,,,"Core exception while retrieving the content description",1332238575136
+error,log,,,"Core exception while retrieving the content description",1332238575137
+error,log,,,"Core exception while retrieving the content description",1332238575138
+error,log,,,"Core exception while retrieving the content description",1332238575139
+error,log,,,"Core exception while retrieving the content description",1332238575140
+error,log,,,"Core exception while retrieving the content description",1332238575142
+error,log,,,"Core exception while retrieving the content description",1332238575143
+error,log,,,"Core exception while retrieving the content description",1332238575144
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238576095
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238699851
+error,log,,,"Resource is out of sync with the file system: '/MyManager/admin/sql/install.mysql.utf8.sql'.",1332238704929
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1332238705066
+error,log,,,"Core exception while retrieving the content description",1332238748727
+error,log,,,"Core exception while retrieving the content description",1332238748729
+error,log,,,"Core exception while retrieving the content description",1332238748730
+error,log,,,"Core exception while retrieving the content description",1332238748731
+error,log,,,"Core exception while retrieving the content description",1332238748735
+error,log,,,"Core exception while retrieving the content description",1332238748737
+error,log,,,"Core exception while retrieving the content description",1332238748772
+error,log,,,"Core exception while retrieving the content description",1332238748774
+error,log,,,"Core exception while retrieving the content description",1332238748778
+error,log,,,"Core exception while retrieving the content description",1332238748780
+error,log,,,"Core exception while retrieving the content description",1332238748781
+error,log,,,"Core exception while retrieving the content description",1332238748782
+error,log,,,"Core exception while retrieving the content description",1332238748785
+error,log,,,"Core exception while retrieving the content description",1332238748786
+error,log,,,"Core exception while retrieving the content description",1332238748788
+error,log,,,"Core exception while retrieving the content description",1332238748789
+error,log,,,"Core exception while retrieving the content description",1332238748792
+error,log,,,"Core exception while retrieving the content description",1332238748882
+error,log,,,"Core exception while retrieving the content description",1332238748883

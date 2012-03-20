@@ -10,6 +10,12 @@ defined('_JEXEC') or die('Restricted Access');
 		<input type="checkbox" name="toggle" value="" onclick="checkAll(<?php echo count($this->items); ?>);" />
 	</th>			
 	<th>
-		<?php echo JText::_('COM_HELLOWORLD_HELLOWORLD_HEADING_GREETING'); ?>
+		<?php echo JText::_('COM_HELLOWORLD_HELLOWORLD_HEADING_FILE_DESCRIPTION'); ?>
+	</th>
+	<th>
+		<?php echo JText::_('COM_HELLOWORLD_HELLOWORLD_HEADING_FILE_ADDRESS'); ?>
+	</th>
+	<th>
+		<?php echo JText::_('COM_HELLOWORLD_HELLOWORLD_HEADING_USER'); ?>
 	</th>
 </tr>

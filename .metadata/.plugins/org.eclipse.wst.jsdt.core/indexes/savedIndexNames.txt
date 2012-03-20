@@ -1,0 +1,5 @@
+INDEX VERSION 1.121+C:\Users\win\Desktop\maxbcmanager\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1467754509.index
+699889421.index
+2912908039.index
+1478516318.index

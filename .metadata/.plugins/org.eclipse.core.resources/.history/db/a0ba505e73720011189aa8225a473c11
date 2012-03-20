@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form
+	addrulepath="/administrator/components/com_helloworld/models/rules"
+>
+	<fieldset>
+		<field
+			name="id"
+			type="hidden"
+		/>
+		<field
+			name="file_description"
+			type="text"
+			label="COM_HELLOWORLD_HELLOWORLD_FIELD_FILE_DESCRIPTION_LABEL"
+			description="COM_HELLOWORLD_HELLOWORLD_FIELD_FILE_DESCRIPTION_DESC"
+			size="40"
+			class="inputbox validate-greeting"
+			required="true"
+			default=""
+		/>
+		<field
+			name="file_dADDRESS"
+			type="text"
+			label="COM_HELLOWORLD_HELLOWORLD_FIELD_FILE_DESCRIPTION_LABEL"
+			description="COM_HELLOWORLD_HELLOWORLD_FIELD_FILE_DESCRIPTION_DESC"
+			size="40"
+			class="inputbox validate-greeting"
+			required="true"
+			default=""
+		/>
+		<field
+			name="userid"
+			type="user"
+			extension="com_helloworld"
+			class="inputbox"
+			default=""
+			label="COM_HELLOWORLD_HELLOWORLD_FIELD_USERID_LABEL"
+			description="COM_HELLOWORLD_HELLOWORLD_FIELD_USERID_DESC"
+			required="true"
+		>
+			<option value="0">JOPTION_SELECT_USER</option>
+		</field>
+	</fieldset>
+</form>

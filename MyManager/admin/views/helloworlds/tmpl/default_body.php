@@ -11,7 +11,13 @@ defined('_JEXEC') or die('Restricted Access');
 			<?php echo JHtml::_('grid.id', $i, $item->id); ?>
 		</td>
 		<td>
-			<?php echo $item->greeting; ?>
+			<?php echo $item->file_description; ?>
+		</td>
+		<td>
+			<?php echo $item->file_address; ?>
+		</td>
+		<td>
+			<?php echo $item->users; ?>
 		</td>
 	</tr>
 <?php endforeach; ?>

@@ -19,9 +19,11 @@ class HelloWorldModelHelloWorlds extends JModelList
 		$db = JFactory::getDBO();
 		$query = $db->getQuery(true);
 		// Select some fields
-		$query->select('id,greeting');
-		// From the hello table
+		$query->select('#__helloworld.id as id,file_description,file_address,#__users.name as users,userid');
 		$query->from('#__helloworld');
+		$query->leftJoin('#__users on userid=#__users.id');
 		return $query;
 	}
 }
+
+

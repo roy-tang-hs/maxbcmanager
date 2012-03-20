@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (c) 2008, 2010 IBM Corporation and others.
+ * Copyright (c) 2008, 2009 IBM Corporation and others.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -384,6 +384,7 @@ Array.prototype = new Object();
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.length = 1;
 /**
@@ -394,6 +395,7 @@ Array.prototype.length = 1;
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.concat = function(args){return [];};
 /**
@@ -404,6 +406,7 @@ Array.prototype.concat = function(args){return [];};
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.join = function(seperator){return [];};
 /**
@@ -412,7 +415,8 @@ Array.prototype.join = function(seperator){return [];};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.pop = function(){return new Object();};
 /**
@@ -421,7 +425,8 @@ Array.prototype.pop = function(){return new Object();};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.push = function(args){};
 /**
@@ -431,6 +436,7 @@ Array.prototype.push = function(args){};
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.reverse = function(){return [];};
 /**
@@ -439,7 +445,8 @@ Array.prototype.reverse = function(){return [];};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.shift = function(){return new Object();};
 /**
@@ -450,7 +457,8 @@ Array.prototype.shift = function(){return new Object();};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.slice = function(start, end){return [];};
 /**
@@ -461,6 +469,7 @@ Array.prototype.slice = function(start, end){return [];};
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.sort = function(funct){return [];};
 /**
@@ -472,7 +481,8 @@ Array.prototype.sort = function(funct){return [];};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.splice = function(start, deletecount, items){return [];};
 /**
@@ -482,7 +492,8 @@ Array.prototype.splice = function(start, deletecount, items){return [];};
   * @memberOf   Array
   * @see     Array
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */  
 Array.prototype.unshift = function(start){return [];};
 
@@ -502,6 +513,7 @@ Function.prototype = new Object();
  * @returns {Object}
  * @since   Standard ECMA-262 3rd. Edition 
  * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */ 
 Function.prototype.apply = function(thisArg, argArray){return new Object();};
 /**
@@ -510,14 +522,16 @@ Function.prototype.apply = function(thisArg, argArray){return new Object();};
   * @param {Object} args
   * @returns {Object}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */ 
 Function.prototype.call = function(thisObject, args){return new Object();};
 /**
   * property length
   * @type    Number
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */ 
 Function.prototype.length = 0;
 
@@ -928,14 +942,16 @@ Global.prototype=new Object();
   * Property NaN
   * @memberOf Global
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.NaN=0;
 /**
   * Property Infinity
   * @memberOf Global
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.Infinity=0;
 /**
@@ -945,7 +961,8 @@ Global.prototype.Infinity=0;
   * @type Object
   * @returns {Object}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.eval=function(s){return new Object();};
 
@@ -958,13 +975,6 @@ Global.prototype.eval=function(s){return new Object();};
 Global.prototype.debugger=null;
 
 /**
- * Property undefined
- * @memberOf Global
- * @description undefined
-*/
-Global.prototype.undefined=null;
-
-/**
   * function parseInt(s,radix)
   * @memberOf Global
   * @param {String} s
@@ -972,7 +982,8 @@ Global.prototype.undefined=null;
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.parseInt=function(s,radix){return 0;};
 /**
@@ -982,7 +993,8 @@ Global.prototype.parseInt=function(s,radix){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.parseFloat=function(s){return 0;};
 /**
@@ -992,7 +1004,8 @@ Global.prototype.parseFloat=function(s){return 0;};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.   
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.escape=function(s){return "";};
 /**
@@ -1002,7 +1015,8 @@ Global.prototype.escape=function(s){return "";};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.   
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.unescape=function(s){return "";};
 /**
@@ -1012,7 +1026,8 @@ Global.prototype.unescape=function(s){return "";};
   * @type Boolean
   * @returns {Boolean}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.isNaN=function(number){return false;};
 /**
@@ -1022,7 +1037,8 @@ Global.prototype.isNaN=function(number){return false;};
   * @type Boolean
   * @returns {Boolean}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Global.prototype.isFinite=function(number){return false;};
 /**
@@ -1032,7 +1048,8 @@ Global.prototype.isFinite=function(number){return false;};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.  
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.decodeURI=function(encodedURI){return "";};
 /**
@@ -1041,7 +1058,8 @@ Global.prototype.decodeURI=function(encodedURI){return "";};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.  
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.decodeURIComponent=function(uriComponent){return "";};
 /**
@@ -1051,7 +1069,8 @@ Global.prototype.decodeURIComponent=function(uriComponent){return "";};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.    
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.encodeURIComponent=function(uriComponent){return "";};
 
@@ -1062,7 +1081,8 @@ Global.prototype.encodeURIComponent=function(uriComponent){return "";};
  * @type String
  * @returns {String}
  * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.    
+ * @since   Level 2 Document Object Model Core Definition.
+ * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
 */
 Global.prototype.encodeURI=function(URI){return "";};
 
@@ -1081,14 +1101,16 @@ Math.prototype=new Object();
   * Property E
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.E=0;
 /**
   * Property LN10
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.LN10=0;
 /**
@@ -1096,41 +1118,47 @@ Math.LN10=0;
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.LN2=0;
 /**
   * Property LOG2E
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.LOG2E=0;
 /**
   * Property LOG10E
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.LOG10E=0;
 /**
   * Property PI
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.PI=0;
 /**
   * Property SQRT1_2
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.SQRT1_2=0;
 /**
   * Property SQRT2
   * @memberOf Math
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.SQRT2=0;
 /**
@@ -1140,7 +1168,8 @@ Math.SQRT2=0;
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.abs=function(x){return 0;};
 /**
@@ -1151,6 +1180,7 @@ Math.abs=function(x){return 0;};
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.acos=function(x){return 0;};
 /**
@@ -1160,7 +1190,8 @@ Math.acos=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.asin=function(x){return 0;};
 /**
@@ -1171,6 +1202,7 @@ Math.asin=function(x){return 0;};
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
   * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.atan=function(x){return 0;};
 /**
@@ -1181,7 +1213,8 @@ Math.atan=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.atan2=function(x,y){return 0;};
 /**
@@ -1191,7 +1224,8 @@ Math.atan2=function(x,y){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.ceil=function(x){return 0;};
 /**
@@ -1201,7 +1235,8 @@ Math.ceil=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.cos=function(x){return 0;};
 /**
@@ -1211,7 +1246,8 @@ Math.cos=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.exp=function(x){return 0;};
 /**
@@ -1221,7 +1257,8 @@ Math.exp=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.floor=function(x){return 0;};
 /**
@@ -1231,7 +1268,8 @@ Math.floor=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.log=function(x){return 0;};
 /**
@@ -1241,7 +1279,8 @@ Math.log=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.max=function(args){return 0;};
 /**
@@ -1251,7 +1290,8 @@ Math.max=function(args){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.min=function(args){return 0;};
 /**
@@ -1262,7 +1302,8 @@ Math.min=function(args){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.pow=function(x,y){return 0;};
 /**
@@ -1271,7 +1312,8 @@ Math.pow=function(x,y){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.random=function(){return 0;};
 /**
@@ -1281,7 +1323,8 @@ Math.random=function(){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.round=function(x){return 0;};
 /**
@@ -1291,7 +1334,8 @@ Math.round=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.sin=function(x){return 0;};
 /**
@@ -1301,7 +1345,8 @@ Math.sin=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.sqrt=function(x){return 0;};
 /**
@@ -1311,7 +1356,8 @@ Math.sqrt=function(x){return 0;};
   * @type Number
   * @returns {Number}
   * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Level 2 Document Object Model Core Definition.
+  * @see    http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html     
  */
 Math.tan=function(x){return 0;};
 /**
