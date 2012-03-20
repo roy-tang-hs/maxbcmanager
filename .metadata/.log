@@ -581,3 +581,13 @@ org.eclipse.core.internal.resources.ResourceException: Resource is out of sync w
 
 !ENTRY org.eclipse.dltk.core 2 0 2012-03-19 18:51:43.012
 !MESSAGE Error decoding problem idenfier "1073741824"
+!SESSION 2012-03-20 01:39:55.318 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-03-20 01:40:14.499
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

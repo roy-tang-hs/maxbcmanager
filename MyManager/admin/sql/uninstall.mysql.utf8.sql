@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS `#__mymanager`;
+DROP TABLE IF EXISTS `#__helloworld`;

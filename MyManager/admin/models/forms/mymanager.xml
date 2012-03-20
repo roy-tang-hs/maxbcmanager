@@ -6,11 +6,11 @@
 			type="hidden"
 		/>
 		<field
-			name="greeting"
+			name="user_id"
 			type="text"
 			label="COM_MYMANAGER_MYMANAGER_GREETING_LABEL"
 			description="COM_MYMANAGER_MYMANAGER_GREETING_DESC"
-			size="40"
+			size="10"
 			class="inputbox"
 			default=""
 		/>
