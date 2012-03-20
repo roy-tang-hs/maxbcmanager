@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
-	<layout title="COM_MYMANAGER_User_file_manager">
+	<layout title="User_file_manager">
 		<message>User_file_manager_system</message>
 	</layout>
 	<fields

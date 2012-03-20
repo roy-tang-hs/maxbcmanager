@@ -40,7 +40,6 @@
 		<filename>controller.php</filename>
 		<folder>views</folder>
 		<folder>models</folder>
-		<folder>language</folder>
 	</files>
  
 	<administration>
@@ -61,10 +60,6 @@
 			<!-- models files section -->
 			<folder>models</folder>
 		</files>
-		<languages folder="admin">
-			<language tag="en-GB">language/en-GB/en.com_mymanager.ini</language>
-			<language tag="en-GB">language/en-GB/en.com_mymanager.sys.ini</language>
-		</languages>
 	</administration>
  
 </extension>
