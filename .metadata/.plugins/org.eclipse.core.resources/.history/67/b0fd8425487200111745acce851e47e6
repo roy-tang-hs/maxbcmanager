@@ -10,9 +10,9 @@
 	<copyright>Copyright Info</copyright>
 	<license>License Info</license>
 	<!--  The version string is recorded in the components table -->
-	<version>0.0.9</version>
+	<version>0.0.4</version>
 	<!-- The description is optional and defaults to the name -->
-	<description>COM_MYMANAGER_DESCRIPTION</description>
+	<description>Description of the Maxbc user file manager component ...</description>
  
 	<install> <!-- Runs on install -->
 		<sql>

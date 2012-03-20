@@ -8,7 +8,7 @@ jimport('joomla.application.component.view');
 /**
  * HelloWorld View
  */
-class ManagerViewMyManager extends JView
+class HelloWorldViewHelloWorld extends JView
 {
 	/**
 	 * display method of Hello view
@@ -44,10 +44,10 @@ class ManagerViewMyManager extends JView
 	{
 		JRequest::setVar('hidemainmenu', true);
 		$isNew = ($this->item->id == 0);
-		JToolBarHelper::title($isNew ? JText::_('COM_MYMANAGER_MANAGER_MYMANAGER_NEW')
-				: JText::_('COM_MYMANAGER_MANAGER_MYMANAGER_EDIT'));
-		JToolBarHelper::save('mymanager.save');
-		JToolBarHelper::cancel('mymanager.cancel', $isNew ? 'JTOOLBAR_CANCEL'
+		JToolBarHelper::title($isNew ? JText::_('COM_HELLOWORLD_MANAGER_HELLOWORLD_NEW')
+				: JText::_('COM_HELLOWORLD_MANAGER_HELLOWORLD_EDIT'));
+		JToolBarHelper::save('helloworld.save');
+		JToolBarHelper::cancel('helloworld.cancel', $isNew ? 'JTOOLBAR_CANCEL'
 				: 'JTOOLBAR_CLOSE');
 	}
 }

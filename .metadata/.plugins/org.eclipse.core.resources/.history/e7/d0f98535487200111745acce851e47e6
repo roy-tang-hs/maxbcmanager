@@ -12,7 +12,7 @@
 	<!--  The version string is recorded in the components table -->
 	<version>0.0.9</version>
 	<!-- The description is optional and defaults to the name -->
-	<description>COM_MYMANAGER_DESCRIPTION</description>
+	<description>Description of the Maxbc user file manager component ...</description>
  
 	<install> <!-- Runs on install -->
 		<sql>
